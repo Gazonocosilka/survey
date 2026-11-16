@@ -1,0 +1,9 @@
+{
+  "name": "room21-furnitura",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Room 21 — специфікація фурнітури для постачальника (Dominus Build)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
